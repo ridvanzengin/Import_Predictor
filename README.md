@@ -11,3 +11,29 @@
 #### Multi-layer Perceptron ==> sMAPE:21%
 
 ## Data is downloaded from trademap.com
+### Countries:
+#### United Kingdom
+#### Canada
+#### France
+#### Netherlands
+#### Germany
+#### Finland
+#### Sweden
+#### Singapore
+#### Denmark
+#### Austria
+
+### Products:
+#### Pears
+#### Apple
+#### Banana
+#### Kiwi
+#### Orange
+#### Plums
+#### Grapes
+#### Figs
+#### Strawberries
+#### Peaches
+
+
+
