@@ -1,7 +1,7 @@
 # Import_Predictor
 ## 10 products imported by 10 countries in 2019 and 2020 forcasted with 3 different approaches and 8 different algorithms:
-### Seasonal Autoregressive Integrated Moving Average (SARIMA) ==> sMAPE:15%
-### Triple Exponential Smoothing (Holt Winters) ==> sMAPE:17%
+#### Seasonal Autoregressive Integrated Moving Average (SARIMA) ==> sMAPE:15%
+#### Triple Exponential Smoothing (Holt Winters) ==> sMAPE:17%
 ### Machine Learning Approach:
 #### Random Forest ==> sMAPE:19%
 #### GBM ==> sMAPE:20%
